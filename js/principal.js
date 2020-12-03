@@ -127,6 +127,13 @@ function cargaDeCookies() {
     cambiarAOscuro();
     document.getElementById("myonoffswitch").checked = true;
   }
+  if($(window).width() > 600){
+    var h = document.getElementById("der").clientHeight;
+    $("#cuadro-izq").css({ minHeight: h+"px" });
+    }
+    else{
+      $("#cuadro-izq").css({ minHeight:"" });
+    }
 }
 
 
