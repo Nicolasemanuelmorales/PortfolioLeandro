@@ -8,6 +8,20 @@ h5,
 h6 {
   font-family: "Roboto", sans-serif;
 }
+
+ul li::before {
+  content: "\2022";
+  color: #fa7505;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+  
+
+}
+li{
+  list-style-type: none;
+}
 .hr{
   border-color: #514f4f !important;  
 }
