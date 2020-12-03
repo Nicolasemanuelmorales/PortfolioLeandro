@@ -42,14 +42,14 @@
     font-family: "Roboto", sans-serif;
     content: "Oscuro";
     padding-left: 8px;
-    background-color: #009688;
+    background-color: #fa7505;
     color: #d9d9d9;
   }
   .onoffswitch-inner:after {
     font-family: "Roboto", sans-serif;
     content: "Claro";
     padding-right: 8px;
-    background-color: #009688;
+    background-color: #fa7505;
     color: #d9d9d9;
     text-align: right;
   }
@@ -120,14 +120,14 @@
     font-family: "Roboto", sans-serif;
     content: "Español";
     padding-left: 8px;
-    background-color: #009688;
+    background-color: #fa7505;
     color: #d9d9d9;
   }
   .onoffswitch-inner2:after {
     font-family: "Roboto", sans-serif;
     content: "English";
     padding-right: 8px;
-    background-color: #009688;
+    background-color: #fa7505;
     color: #d9d9d9;
     text-align: right;
   }
