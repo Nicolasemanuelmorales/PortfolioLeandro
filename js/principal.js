@@ -169,7 +169,7 @@ $('#myonoffswitch2').change(function() {
     });
 
     var arrLang = {
-      'en': {
+      'arg': {
         'ExperienciaTitulo': 'Work experience',
         'Agosto': 'August',
         'Actualmente': 'Nowadays',
@@ -222,7 +222,7 @@ $('#myonoffswitch2').change(function() {
         'p5':'IT Support to Swiss Medical clinics and sanatoriums through phone communication, remote access and on site. Incidents handling through ticket system “Aranda Service Desk (ASDK)”.',
         'p4': 'L2 Support and Windows servers’ management. Networking configuration and support. Incidents handling through ticket system “Spiceworks”.',
       },
-      'arg': {
+      'en': {
         'ExperienciaTitulo': 'Experiencia laboral',
         'Agosto': 'Agosto',
         'Actualmente': 'Actualmente',

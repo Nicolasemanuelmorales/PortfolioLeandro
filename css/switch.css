@@ -118,14 +118,14 @@
   }
   .onoffswitch-inner2:before {
     font-family: "Roboto", sans-serif;
-    content: "Español";
+    content: "English";
     padding-left: 8px;
     background-color: #fa7505;
     color: #d9d9d9;
   }
   .onoffswitch-inner2:after {
     font-family: "Roboto", sans-serif;
-    content: "English";
+    content: "Español";
     padding-right: 8px;
     background-color: #fa7505;
     color: #d9d9d9;
@@ -135,7 +135,7 @@
     display: block;
     width: 23px;
     margin: 6px;
-    background-image:url("../img/usa.jpg") ;
+    background-image:url("../img/argc.jpg") ;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -149,6 +149,6 @@
   }
   .onoffswitch-checkbox2:checked + .onoffswitch-label2 .onoffswitch-switch2 {
     right: 0px;
-    background-image:url("../img/argc.jpg") ;
+    background-image:url("../img/usa.jpg") ;
   }
   
